@@ -4,7 +4,7 @@
 #
 Name     : perftest
 Version  : 4.1.0.2.770623
-Release  : 2
+Release  : 3
 URL      : https://github.com/linux-rdma/perftest/releases/download/V4.1-0.2/perftest-4.1-0.2.g770623f.tar.gz
 Source0  : https://github.com/linux-rdma/perftest/releases/download/V4.1-0.2/perftest-4.1-0.2.g770623f.tar.gz
 Summary  : IB Performance tests
