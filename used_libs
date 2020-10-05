@@ -2,5 +2,6 @@ libc.so.6
 libibumad.so.3
 libibverbs.so.1
 libm.so.6
+libmlx5.so.1
 libpthread.so.0
 librdmacm.so.1
