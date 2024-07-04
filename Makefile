@@ -1,5 +1,5 @@
 PKG_NAME := perftest
-URL = https://github.com/linux-rdma/perftest/releases/download/v4.5-0.18/perftest-4.5-0.18.gfcddfe0.tar.gz
+URL = https://github.com/linux-rdma/perftest/releases/download/24.04.0-0.41/perftest-24.04.0-0.41.gd1b3607.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
